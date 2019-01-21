@@ -1,0 +1,9 @@
+.selected-mon {
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+.selectDesc {
+    margin-left: 5px;
+    margin-bottom: 3px;
+}

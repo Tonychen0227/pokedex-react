@@ -1,0 +1,35 @@
+h2 {
+    font-family: Open Sans;
+}
+
+.main {
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.selectCard {
+    cursor: pointer;
+}
+
+.party {
+    color: #ffa6b2;
+    text-align: center;
+    font-family: Montserrat;
+}
+
+.selection {
+    color: #b2ffa6;
+    text-align: center;
+    font-family: Montserrat;
+}
+
+.partyName {
+    color: #a6beff;
+    text-align: center;
+}
+
+.selectionName {
+    color: #ffcda6;
+    text-align: center;
+}
