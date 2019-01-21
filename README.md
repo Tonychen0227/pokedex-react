@@ -1,4 +1,14 @@
+#Pokedex-React
+
+![alt text](images/main.JPG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Pokedex-React was built to learn about the inner workings of React, particularly fetching data and displaying it appropriately. Further functionality was added through standard practices such as props and states. The API used was courtesy of PokeApi.co, found at https://pokeapi.co/
+
+The project features three distinct panels. The first panel allows the user to search for any Pokémon in the PokeApi database. When the query is succesful, the Pokémon's Pokedex number and 6 base stats are displayed. You can choose to add the Pokémon to your party. You may also choose to do so from finding the desired Pokémon from the Selection panel.
+
+Semantic UI was used to properly position and style the React components.
 
 ## Available Scripts
 
